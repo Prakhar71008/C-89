@@ -1,0 +1,13 @@
+body{
+    background-image:url("download (12).jpg");
+    background-position: center;
+    background-size: cover;
+}
+.login_1,.login_2{
+    background:cyan;
+    color:black;
+    padding:10px;
+    float:none;
+    border-radius:10px;
+    width:30%;
+}
